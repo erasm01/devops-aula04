@@ -1,9 +1,8 @@
 # devops-aula04
 atividade
 
+hotel california
 
-cavaleiros dos zodiaco 1°
+don´t speak
 
-YU-GI-OH GX
-
-Guren Langan
+shell shocked
